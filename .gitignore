@@ -1,2 +1,6 @@
-./output/*
-./.idea/*
+/out
+/.idea
+*.class
+*.o
+*.out
+*.exe
